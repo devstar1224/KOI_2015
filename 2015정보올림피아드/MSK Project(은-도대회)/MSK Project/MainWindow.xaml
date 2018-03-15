@@ -1,0 +1,95 @@
+﻿<Window x:Class="MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+     Title="MainWindow" Closed="Window_Closed" WindowStyle="None" Background="Transparent"  AllowsTransparency="True" MouseMove="Window_MouseMove" Height="760.554" Width="563.754" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" >
+
+
+    <Grid Margin="0,0,0,256" HorizontalAlignment="Left" Width="521">
+        <Grid.Background>
+            <ImageBrush ImageSource="Resource/제목-없음-1_0013_레이어-3.png"/>
+        </Grid.Background>
+
+
+        <ListView Name="ListView1" Opacity="0.5"  MouseMove="ListView1_MouseMove" MouseLeave="ListView1_MouseLeave" MouseDoubleClick="ListView_MouseDoubleClick" HorizontalAlignment="Left" Height="178" VerticalAlignment="Top" Width="503" Margin="9,269,0,0">
+
+        </ListView>
+
+        <Image Name="img1" HorizontalAlignment="Left" Source="Resource/default.png" Height="118" VerticalAlignment="Top" Width="124" Margin="27,51,0,0" Stretch="Fill">
+            <Image.OpacityMask>
+                <ImageBrush ImageSource="Resource/default.png" />
+            </Image.OpacityMask>
+            <Image.Clip>
+                <EllipseGeometry Center="82.5,88.5" RadiusX="120" RadiusY="100" />
+            </Image.Clip>
+            <Image.Effect>
+                <DropShadowEffect ShadowDepth="3" Direction="330" Color="White" Opacity="0.7" BlurRadius="100" />
+
+            </Image.Effect>
+        </Image>
+
+        <Slider MouseDown="statuss_MouseDown" MouseLeave="statuss_MouseLeave"  MouseDoubleClick="statuss_MouseDoubleClick" MouseMove="statuss_MouseMove"  Name="statuss" HorizontalAlignment="Left" Margin="177,162,0,0" VerticalAlignment="Top" Width="335" Height="18"/>
+        <Slider ValueChanged="volumes_ValueChanged" Name="volumes" HorizontalAlignment="Left" Margin="427,133,0,0" VerticalAlignment="Top" Width="85" Maximum="100" Value="80" Height="23"/>
+        <Label Name="mname" Content="제목:" HorizontalAlignment="Left" Margin="163,65,0,0" VerticalAlignment="Top" FontSize="25" Foreground="White" Width="349"/>
+        <Label Name="gname" Content="Genre:" HorizontalAlignment="Left" Margin="177,120,0,0" VerticalAlignment="Top" FontSize="18" Foreground="White"/>
+        <Image x:Name="imgrsrc" HorizontalAlignment="Left" Source="Resource/default.png" Height="144" VerticalAlignment="Top" Width="146" Margin="592,192,-182,0" >
+            <Image.OpacityMask>
+                <ImageBrush ImageSource="Resource/default.png"/>
+            </Image.OpacityMask>
+            <Image.Effect>
+                <DropShadowEffect ShadowDepth="4" Direction="330" Color="White" Opacity="0.7" BlurRadius="4" />
+
+            </Image.Effect>
+        </Image>
+        <Image x:Name="defaultimg" MouseDown="defaultimg_MouseDown" MouseLeave="default_MouseLeave" MouseMove="default_MouseMove" Opacity="0.5" HorizontalAlignment="Left" Source="Resource/반복2.png" Height="61" VerticalAlignment="Top" Width="78" Margin="26,185,0,0" RenderTransformOrigin="0.5,1.262" >
+
+            <Image.Effect>
+                <DropShadowEffect ShadowDepth="4" Direction="330" Color="White" Opacity="0.7" BlurRadius="4" />
+
+            </Image.Effect>
+        </Image>
+        <Image x:Name="m_loop" HorizontalAlignment="Left" Source="Resource/반복1.png" Height="30" VerticalAlignment="Top" Width="30" Margin="664,192,-136,0" >
+            <Image.OpacityMask>
+                <ImageBrush ImageSource="Resource/반복2.png"/>
+            </Image.OpacityMask>
+
+            <Image.Effect>
+                <DropShadowEffect ShadowDepth="4" Direction="330" Color="White" Opacity="0.7" BlurRadius="4" />
+
+            </Image.Effect>
+        </Image>
+        <Image x:Name="a_loop" HorizontalAlignment="Left" Source="Resource/반복3.png" Height="30" VerticalAlignment="Top" Width="30" Margin="581,216,-53,0" >
+
+            <Image.Effect>
+                <DropShadowEffect ShadowDepth="4" Direction="330" Color="White" Opacity="0.7" BlurRadius="4" />
+
+            </Image.Effect>
+        </Image>
+        <Image x:Name="d_img" MouseDown="defaultimg_MouseDown" MouseLeave="default_MouseLeave" MouseMove="default_MouseMove" Opacity="0.5" HorizontalAlignment="Left" Source="Resource/반복2.png" Height="61" VerticalAlignment="Top" Width="78" Margin="616,185,-136,0" >
+
+            <Image.Effect>
+                <DropShadowEffect ShadowDepth="4" Direction="330" Color="White" Opacity="0.7" BlurRadius="4" />
+
+            </Image.Effect>
+        </Image>
+
+        <Image MouseDown="Image_MouseDown_1"  HorizontalAlignment="Left" Height="25" VerticalAlignment="Top" Width="564" Margin="0,1,0,0" Source="Resource/위.png" Stretch="Fill"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="53,-10,0,0" VerticalAlignment="Top" Width="100"/>
+        <Image HorizontalAlignment="Left" Height="5" Margin="0,26,0,0" VerticalAlignment="Top" Width="2000" Source="Resource/위2.png" Stretch="UniformToFill"/>
+        <Image Name="playb" MouseDown="Button_Click_2" MouseMove="Image_MouseMove_5"  MouseLeave="Image_MouseLeave_5" HorizontalAlignment="Left" Height="79" Margin="186,185,0,0" VerticalAlignment="Top" Width="77" Source="Resource/시작.png"/>
+        <Image Name="waitb" MouseDown="Button_Click_4" MouseMove="Image_MouseMove_4" MouseLeave="Image_MouseLeave_4" HorizontalAlignment="Left" Height="79" Margin="268,185,0,0" VerticalAlignment="Top" Width="77" Source="Resource/멈추기2.png"/>
+        <Image Name="stopb" MouseDown="Button_Click_5" MouseMove="Image_MouseMove_2" MouseLeave="Image_MouseLeave_2" HorizontalAlignment="Left" Height="79" Margin="350,185,0,0" VerticalAlignment="Top" Width="77" Source="Resource/멈추기.png"/>
+        <Image Name="leftb" MouseDown="rightb_MouseDown"  MouseMove="Image_MouseMove" MouseLeave="Image_MouseLeave" HorizontalAlignment="Left" Height="79" Margin="432,185,0,0" VerticalAlignment="Top" Width="77" Source="Resource/오른쪽 넘어가기.png"/>
+        <Image Name="rightb" MouseDown="leftb_MouseDown" MouseMove="Image_MouseMove_1"  MouseLeave="Image_MouseLeave_1" HorizontalAlignment="Left" Height="79" Margin="104,185,0,0" VerticalAlignment="Top" Width="77" Source="Resource/왼쪽 넘어가기.png"/>
+        <Image Name="exit1" MouseMove="Image_MouseMove_3" MouseLeave="Image_MouseLeave_3" MouseDown="Image_MouseDown" HorizontalAlignment="Left" Height="20" Margin="480,1,0,0" VerticalAlignment="Top" Width="41" Source="Resource/Exit.png"/>
+        <Button Content="추가" Click="Button_Click" HorizontalAlignment="Left" Margin="10,452,0,0" VerticalAlignment="Top" Width="61"/>
+        <Button Content="제거" Click="Button_Click_1" HorizontalAlignment="Left" Margin="76,452,0,0" VerticalAlignment="Top" Width="61"/>
+        <Button Content="EQ" HorizontalAlignment="Left" Margin="142,452,0,0" VerticalAlignment="Top" Width="61" Click="Button_Click_3"/>
+        <Button Content="숨기기" HorizontalAlignment="Left" Margin="208,452,0,0" VerticalAlignment="Top" Width="61" Click="Button_Click_6"/>
+        <Button Content="장르분석" HorizontalAlignment="Left" Margin="274,452,0,0" VerticalAlignment="Top" Width="61" Click="Button_Click_7"/>
+
+
+
+    </Grid>
+
+</Window>
+    

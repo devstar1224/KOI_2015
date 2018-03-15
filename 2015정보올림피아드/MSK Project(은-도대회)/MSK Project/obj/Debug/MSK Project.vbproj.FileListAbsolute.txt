@@ -1,0 +1,275 @@
+C:\Users\남윤진\Documents\Visual Studio 2013\Projects\MSK Project\MSK Project\bin\Debug\MSK Project.exe.config
+C:\Users\남윤진\Documents\Visual Studio 2013\Projects\MSK Project\MSK Project\bin\Debug\MSK Project.exe
+C:\Users\남윤진\Documents\Visual Studio 2013\Projects\MSK Project\MSK Project\bin\Debug\MSK Project.pdb
+C:\Users\남윤진\Documents\Visual Studio 2013\Projects\MSK Project\MSK Project\bin\Debug\MSK Project.xml
+C:\Users\남윤진\Documents\Visual Studio 2013\Projects\MSK Project\MSK Project\obj\Debug\MainWindow.baml
+C:\Users\남윤진\Documents\Visual Studio 2013\Projects\MSK Project\MSK Project\obj\Debug\MainWindow.g.vb
+C:\Users\남윤진\Documents\Visual Studio 2013\Projects\MSK Project\MSK Project\obj\Debug\Application.g.vb
+C:\Users\남윤진\Documents\Visual Studio 2013\Projects\MSK Project\MSK Project\obj\Debug\MSK Project_MarkupCompile.cache
+C:\Users\남윤진\Documents\Visual Studio 2013\Projects\MSK Project\MSK Project\obj\Debug\MSK Project.g.resources
+C:\Users\남윤진\Documents\Visual Studio 2013\Projects\MSK Project\MSK Project\obj\Debug\MSK_Project.Resources.resources
+C:\Users\남윤진\Documents\Visual Studio 2013\Projects\MSK Project\MSK Project\obj\Debug\MSK Project.vbproj.GenerateResource.Cache
+C:\Users\남윤진\Documents\Visual Studio 2013\Projects\MSK Project\MSK Project\obj\Debug\MSK Project.exe
+C:\Users\남윤진\Documents\Visual Studio 2013\Projects\MSK Project\MSK Project\obj\Debug\MSK Project.xml
+C:\Users\남윤진\Documents\Visual Studio 2013\Projects\MSK Project\MSK Project\obj\Debug\MSK Project.pdb
+C:\Users\남윤진\Documents\Visual Studio 2013\Projects\MSK Project\MSK Project\bin\Debug\ID3TagLibrary.dll
+C:\Users\남윤진\Documents\Visual Studio 2013\Projects\MSK Project\MSK Project\obj\Debug\MSK Project.vbprojResolveAssemblyReference.cache
+C:\Users\남윤진\Documents\Visual Studio 2013\Projects\MSK Project\MSK Project\obj\Debug\MSK Project.vbproj.ResolveComReference.cache
+C:\Users\남윤진\Documents\MSK Project\MSK Project\bin\Debug\MSK Project.exe.config
+C:\Users\남윤진\Documents\MSK Project\MSK Project\obj\Debug\MSK Project.vbproj.ResolveComReference.cache
+C:\Users\남윤진\Documents\MSK Project\MSK Project\obj\Debug\MSK Project.exe
+C:\Users\남윤진\Documents\MSK Project\MSK Project\obj\Debug\MSK Project.xml
+C:\Users\남윤진\Documents\MSK Project\MSK Project\obj\Debug\MSK Project.pdb
+C:\Users\남윤진\Desktop\MSK Project\MSK Project\bin\Debug\MSK Project.exe.config
+C:\Users\남윤진\Desktop\MSK Project\MSK Project\obj\Debug\MSK Project.vbproj.ResolveComReference.cache
+C:\Users\남윤진\Desktop\MSK Project\MSK Project\obj\Debug\MSK Project.exe
+C:\Users\남윤진\Desktop\MSK Project\MSK Project\obj\Debug\MSK Project.xml
+C:\Users\남윤진\Desktop\MSK Project\MSK Project\obj\Debug\MSK Project.pdb
+C:\Users\남윤진\Desktop\MSK Project\MSK Project\bin\Debug\MSK Project.exe
+C:\Users\남윤진\Desktop\MSK Project\MSK Project\bin\Debug\MSK Project.pdb
+C:\Users\남윤진\Desktop\MSK Project\MSK Project\bin\Debug\MSK Project.xml
+C:\Users\남윤진\Desktop\MSK Project\MSK Project\obj\Debug\MainWindow.baml
+C:\Users\남윤진\Desktop\MSK Project\MSK Project\obj\Debug\MainWindow.g.vb
+C:\Users\남윤진\Desktop\MSK Project\MSK Project\obj\Debug\Application.g.vb
+C:\Users\남윤진\Desktop\MSK Project\MSK Project\obj\Debug\MSK Project_MarkupCompile.cache
+C:\Users\남윤진\Desktop\MSK Project\MSK Project\obj\Debug\MSK Project.g.resources
+C:\Users\남윤진\Desktop\MSK Project\MSK Project\obj\Debug\MSK_Project.Resources.resources
+C:\Users\남윤진\Desktop\MSK Project\MSK Project\obj\Debug\MSK Project.vbproj.GenerateResource.Cache
+C:\Users\남윤진\Documents\MSK Project(수정)\MSK Project\bin\Debug\MSK Project.exe.config
+C:\Users\남윤진\Documents\MSK Project(수정)\MSK Project\obj\Debug\MSK Project.vbproj.ResolveComReference.cache
+C:\Users\남윤진\Documents\MSK Project(수정)\MSK Project\obj\Debug\MSK Project.exe
+C:\Users\남윤진\Documents\MSK Project(수정)\MSK Project\obj\Debug\MSK Project.xml
+C:\Users\남윤진\Documents\MSK Project(수정)\MSK Project\obj\Debug\MSK Project.pdb
+C:\Users\남윤진\Documents\MSK Project(수정)\MSK Project\bin\Debug\MSK Project.exe
+C:\Users\남윤진\Documents\MSK Project(수정)\MSK Project\bin\Debug\MSK Project.pdb
+C:\Users\남윤진\Documents\MSK Project(수정)\MSK Project\bin\Debug\MSK Project.xml
+C:\Users\남윤진\Documents\MSK Project(수정)\MSK Project\obj\Debug\EQSetting.baml
+C:\Users\남윤진\Documents\MSK Project(수정)\MSK Project\obj\Debug\MainWindow.baml
+C:\Users\남윤진\Documents\MSK Project(수정)\MSK Project\obj\Debug\EQSetting.g.vb
+C:\Users\남윤진\Documents\MSK Project(수정)\MSK Project\obj\Debug\MainWindow.g.vb
+C:\Users\남윤진\Documents\MSK Project(수정)\MSK Project\obj\Debug\Application.g.vb
+C:\Users\남윤진\Documents\MSK Project(수정)\MSK Project\obj\Debug\MSK Project_MarkupCompile.cache
+C:\Users\남윤진\Documents\MSK Project(수정)\MSK Project\obj\Debug\MSK Project.g.resources
+C:\Users\남윤진\Documents\MSK Project(수정)\MSK Project\obj\Debug\MSK_Project.Resources.resources
+C:\Users\남윤진\Documents\MSK Project(수정)\MSK Project\obj\Debug\MSK Project.vbproj.GenerateResource.Cache
+C:\Users\남윤진\Documents\MSK Project(수정)\MSK Project\obj\Debug\MSK Project.vbprojResolveAssemblyReference.cache
+C:\Users\남윤진\Documents\MSK Project(수정)\MSK Project\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\남윤진\Documents\MSK Project(수정)\MSK Project\bin\Debug\taglib-sharp.dll
+C:\Users\남윤진\Documents\MSK Project(수정)\MSK Project\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\남윤진\Documents\MSK Project(수정)\MSK Project\obj\Debug\lyrics.baml
+C:\Users\남윤진\Documents\MSK Project(수정)\MSK Project\obj\Debug\lyrics.g.vb
+E:\MSK Project(수정)\MSK Project\bin\Debug\MSK Project.exe.config
+E:\MSK Project(수정)\MSK Project\obj\Debug\MSK Project.vbproj.ResolveComReference.cache
+E:\MSK Project(수정)\MSK Project\obj\Debug\MSK Project.exe
+E:\MSK Project(수정)\MSK Project\obj\Debug\MSK Project.xml
+E:\MSK Project(수정)\MSK Project\obj\Debug\MSK Project.pdb
+C:\Users\남 윤 진\Desktop\MSK Project(수정)\MSK Project\bin\Debug\MSK Project.exe.config
+C:\Users\남 윤 진\Desktop\MSK Project(수정)\MSK Project\obj\Debug\MSK Project.vbproj.ResolveComReference.cache
+C:\Users\남 윤 진\Desktop\MSK Project(수정)\MSK Project\obj\Debug\MSK Project.exe
+C:\Users\남 윤 진\Desktop\MSK Project(수정)\MSK Project\obj\Debug\MSK Project.xml
+C:\Users\남 윤 진\Desktop\MSK Project(수정)\MSK Project\obj\Debug\MSK Project.pdb
+C:\Users\남 윤 진\Desktop\MSK Project(수정)\MSK Project\bin\Debug\MSK Project.exe
+C:\Users\남 윤 진\Desktop\MSK Project(수정)\MSK Project\bin\Debug\MSK Project.pdb
+C:\Users\남 윤 진\Desktop\MSK Project(수정)\MSK Project\bin\Debug\MSK Project.xml
+C:\Users\남 윤 진\Desktop\MSK Project(수정)\MSK Project\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\남 윤 진\Desktop\MSK Project(수정)\MSK Project\bin\Debug\taglib-sharp.dll
+C:\Users\남 윤 진\Desktop\MSK Project(수정)\MSK Project\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\남 윤 진\Desktop\MSK Project(수정)\MSK Project\obj\Debug\MSK Project.vbprojResolveAssemblyReference.cache
+C:\Users\남 윤 진\Desktop\MSK Project(수정)\MSK Project\obj\Debug\EQSetting.baml
+C:\Users\남 윤 진\Desktop\MSK Project(수정)\MSK Project\obj\Debug\lyrics.baml
+C:\Users\남 윤 진\Desktop\MSK Project(수정)\MSK Project\obj\Debug\MainWindow.baml
+C:\Users\남 윤 진\Desktop\MSK Project(수정)\MSK Project\obj\Debug\EQSetting.g.vb
+C:\Users\남 윤 진\Desktop\MSK Project(수정)\MSK Project\obj\Debug\lyrics.g.vb
+C:\Users\남 윤 진\Desktop\MSK Project(수정)\MSK Project\obj\Debug\MainWindow.g.vb
+C:\Users\남 윤 진\Desktop\MSK Project(수정)\MSK Project\obj\Debug\Application.g.vb
+C:\Users\남 윤 진\Desktop\MSK Project(수정)\MSK Project\obj\Debug\MSK Project_MarkupCompile.cache
+C:\Users\남 윤 진\Desktop\MSK Project(수정)\MSK Project\obj\Debug\MSK Project.g.resources
+C:\Users\남 윤 진\Desktop\MSK Project(수정)\MSK Project\obj\Debug\MSK_Project.Resources.resources
+C:\Users\남 윤 진\Desktop\MSK Project(수정)\MSK Project\obj\Debug\MSK Project.vbproj.GenerateResource.Cache
+C:\Users\host\Desktop\MSK Project(수정2)\MSK Project\obj\Debug\MSK Project.vbprojResolveAssemblyReference.cache
+C:\Users\host\Desktop\MSK Project(수정2)\MSK Project\obj\Debug\MSK Project.exe
+C:\Users\host\Desktop\MSK Project(수정2)\MSK Project\obj\Debug\MSK Project.xml
+C:\Users\host\Desktop\MSK Project(수정2)\MSK Project\obj\Debug\MSK Project.pdb
+C:\Users\host\Desktop\MSK Project(수정2)\MSK Project\bin\Debug\MSK Project.exe.config
+C:\Users\host\Desktop\MSK Project(수정2)\MSK Project\bin\Debug\MSK Project.exe
+C:\Users\host\Desktop\MSK Project(수정2)\MSK Project\bin\Debug\MSK Project.pdb
+C:\Users\host\Desktop\MSK Project(수정2)\MSK Project\bin\Debug\MSK Project.xml
+C:\Users\host\Desktop\MSK Project(수정2)\MSK Project\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\host\Desktop\MSK Project(수정2)\MSK Project\bin\Debug\taglib-sharp.dll
+C:\Users\host\Desktop\MSK Project(수정2)\MSK Project\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\host\Desktop\MSK Project(수정2)\MSK Project\obj\Debug\EQSetting.baml
+C:\Users\host\Desktop\MSK Project(수정2)\MSK Project\obj\Debug\lyrics.baml
+C:\Users\host\Desktop\MSK Project(수정2)\MSK Project\obj\Debug\MainWindow.baml
+C:\Users\host\Desktop\MSK Project(수정2)\MSK Project\obj\Debug\EQSetting.g.vb
+C:\Users\host\Desktop\MSK Project(수정2)\MSK Project\obj\Debug\lyrics.g.vb
+C:\Users\host\Desktop\MSK Project(수정2)\MSK Project\obj\Debug\MainWindow.g.vb
+C:\Users\host\Desktop\MSK Project(수정2)\MSK Project\obj\Debug\Application.g.vb
+C:\Users\host\Desktop\MSK Project(수정2)\MSK Project\obj\Debug\MSK Project_MarkupCompile.cache
+C:\Users\host\Desktop\MSK Project(수정2)\MSK Project\obj\Debug\MSK Project.g.resources
+C:\Users\host\Desktop\MSK Project(수정2)\MSK Project\obj\Debug\MSK_Project.Resources.resources
+C:\Users\host\Desktop\MSK Project(수정2)\MSK Project\obj\Debug\MSK Project.vbproj.GenerateResource.Cache
+C:\Users\host\Desktop\MSK Project(수정2)\MSK Project\obj\Debug\MSK_Project.grank.resources
+C:\Users\user\Desktop\정올 +5\MSK Project\bin\Debug\MSK Project.exe.config
+C:\Users\user\Desktop\정올 +5\MSK Project\obj\Debug\MSK Project.exe
+C:\Users\user\Desktop\정올 +5\MSK Project\obj\Debug\MSK Project.xml
+C:\Users\user\Desktop\정올 +5\MSK Project\obj\Debug\MSK Project.pdb
+C:\Users\user\Desktop\정올 +5\MSK Project\bin\Debug\MSK Project.exe
+C:\Users\user\Desktop\정올 +5\MSK Project\bin\Debug\MSK Project.pdb
+C:\Users\user\Desktop\정올 +5\MSK Project\bin\Debug\MSK Project.xml
+C:\Users\user\Desktop\정올 +5\MSK Project\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\user\Desktop\정올 +5\MSK Project\bin\Debug\taglib-sharp.dll
+C:\Users\user\Desktop\정올 +5\MSK Project\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\user\Desktop\정올 +5\MSK Project\obj\Debug\MSK Project.vbprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\정올 +5\MSK Project\obj\Debug\EQSetting.baml
+C:\Users\user\Desktop\정올 +5\MSK Project\obj\Debug\lyrics.baml
+C:\Users\user\Desktop\정올 +5\MSK Project\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\정올 +5\MSK Project\obj\Debug\EQSetting.g.vb
+C:\Users\user\Desktop\정올 +5\MSK Project\obj\Debug\lyrics.g.vb
+C:\Users\user\Desktop\정올 +5\MSK Project\obj\Debug\MainWindow.g.vb
+C:\Users\user\Desktop\정올 +5\MSK Project\obj\Debug\Application.g.vb
+C:\Users\user\Desktop\정올 +5\MSK Project\obj\Debug\MSK Project_MarkupCompile.cache
+C:\Users\user\Desktop\정올 +5\MSK Project\obj\Debug\MSK Project.g.resources
+C:\Users\user\Desktop\정올 +5\MSK Project\obj\Debug\MSK_Project.grank.resources
+C:\Users\user\Desktop\정올 +5\MSK Project\obj\Debug\MSK_Project.Resources.resources
+C:\Users\user\Desktop\정올 +5\MSK Project\obj\Debug\MSK Project.vbproj.GenerateResource.Cache
+C:\Users\host\Desktop\ss\정올 +5\MSK Project\bin\Debug\MSK Project.exe.config
+C:\Users\host\Desktop\ss\정올 +5\MSK Project\obj\Debug\MSK Project.exe
+C:\Users\host\Desktop\ss\정올 +5\MSK Project\obj\Debug\MSK Project.xml
+C:\Users\host\Desktop\ss\정올 +5\MSK Project\obj\Debug\MSK Project.pdb
+C:\Users\host\Desktop\ss\정올 +5\MSK Project\bin\Debug\MSK Project.exe
+C:\Users\host\Desktop\ss\정올 +5\MSK Project\bin\Debug\MSK Project.pdb
+C:\Users\host\Desktop\ss\정올 +5\MSK Project\bin\Debug\MSK Project.xml
+C:\Users\host\Desktop\ss\정올 +5\MSK Project\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\host\Desktop\ss\정올 +5\MSK Project\bin\Debug\taglib-sharp.dll
+C:\Users\host\Desktop\ss\정올 +5\MSK Project\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\host\Desktop\ss\정올 +5\MSK Project\obj\Debug\MSK Project.vbprojResolveAssemblyReference.cache
+C:\Users\host\Desktop\ss\정올 +5\MSK Project\obj\Debug\EQSetting.baml
+C:\Users\host\Desktop\ss\정올 +5\MSK Project\obj\Debug\lyrics.baml
+C:\Users\host\Desktop\ss\정올 +5\MSK Project\obj\Debug\MainWindow.baml
+C:\Users\host\Desktop\ss\정올 +5\MSK Project\obj\Debug\EQSetting.g.vb
+C:\Users\host\Desktop\ss\정올 +5\MSK Project\obj\Debug\lyrics.g.vb
+C:\Users\host\Desktop\ss\정올 +5\MSK Project\obj\Debug\MainWindow.g.vb
+C:\Users\host\Desktop\ss\정올 +5\MSK Project\obj\Debug\Application.g.vb
+C:\Users\host\Desktop\ss\정올 +5\MSK Project\obj\Debug\MSK Project_MarkupCompile.cache
+C:\Users\host\Desktop\ss\정올 +5\MSK Project\obj\Debug\MSK Project.g.resources
+C:\Users\host\Desktop\ss\정올 +5\MSK Project\obj\Debug\MSK_Project.grank.resources
+C:\Users\host\Desktop\ss\정올 +5\MSK Project\obj\Debug\MSK_Project.Resources.resources
+C:\Users\host\Desktop\ss\정올 +5\MSK Project\obj\Debug\MSK Project.vbproj.GenerateResource.Cache
+C:\Users\sang\Desktop\정올 +5\MSK Project\bin\Debug\MSK Project.exe.config
+C:\Users\sang\Desktop\정올 +5\MSK Project\obj\Debug\MSK Project.exe
+C:\Users\sang\Desktop\정올 +5\MSK Project\obj\Debug\MSK Project.xml
+C:\Users\sang\Desktop\정올 +5\MSK Project\obj\Debug\MSK Project.pdb
+C:\Users\sang\Desktop\정올 +5\MSK Project\bin\Debug\MSK Project.exe
+C:\Users\sang\Desktop\정올 +5\MSK Project\bin\Debug\MSK Project.pdb
+C:\Users\sang\Desktop\정올 +5\MSK Project\bin\Debug\MSK Project.xml
+C:\Users\sang\Desktop\정올 +5\MSK Project\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\sang\Desktop\정올 +5\MSK Project\bin\Debug\taglib-sharp.dll
+C:\Users\sang\Desktop\정올 +5\MSK Project\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\sang\Desktop\정올 +5\MSK Project\obj\Debug\MSK Project.vbprojResolveAssemblyReference.cache
+C:\Users\sang\Desktop\정올 +5\MSK Project\obj\Debug\EQSetting.baml
+C:\Users\sang\Desktop\정올 +5\MSK Project\obj\Debug\lyrics.baml
+C:\Users\sang\Desktop\정올 +5\MSK Project\obj\Debug\MainWindow.baml
+C:\Users\sang\Desktop\정올 +5\MSK Project\obj\Debug\EQSetting.g.vb
+C:\Users\sang\Desktop\정올 +5\MSK Project\obj\Debug\lyrics.g.vb
+C:\Users\sang\Desktop\정올 +5\MSK Project\obj\Debug\MainWindow.g.vb
+C:\Users\sang\Desktop\정올 +5\MSK Project\obj\Debug\Application.g.vb
+C:\Users\sang\Desktop\정올 +5\MSK Project\obj\Debug\MSK Project_MarkupCompile.cache
+C:\Users\sang\Desktop\정올 +5\MSK Project\obj\Debug\MSK Project.g.resources
+C:\Users\sang\Desktop\정올 +5\MSK Project\obj\Debug\MSK_Project.grank.resources
+C:\Users\sang\Desktop\정올 +5\MSK Project\obj\Debug\MSK_Project.Resources.resources
+C:\Users\sang\Desktop\정올 +5\MSK Project\obj\Debug\MSK Project.vbproj.GenerateResource.Cache
+\\USER-PC\Users\Public\Downloads\정올 +5\MSK Project\bin\Debug\MSK Project.exe.config
+\\USER-PC\Users\Public\Downloads\정올 +5\MSK Project\obj\Debug\MSK Project.exe
+\\USER-PC\Users\Public\Downloads\정올 +5\MSK Project\obj\Debug\MSK Project.xml
+\\USER-PC\Users\Public\Downloads\정올 +5\MSK Project\obj\Debug\MSK Project.pdb
+\\USER-PC\Users\Public\Downloads\정올 +5\MSK Project\bin\Debug\MSK Project.exe
+\\USER-PC\Users\Public\Downloads\정올 +5\MSK Project\bin\Debug\MSK Project.pdb
+\\USER-PC\Users\Public\Downloads\정올 +5\MSK Project\bin\Debug\MSK Project.xml
+\\USER-PC\Users\Public\Downloads\정올 +5\MSK Project\bin\Debug\policy.2.0.taglib-sharp.dll
+\\USER-PC\Users\Public\Downloads\정올 +5\MSK Project\bin\Debug\taglib-sharp.dll
+\\USER-PC\Users\Public\Downloads\정올 +5\MSK Project\bin\Debug\policy.2.0.taglib-sharp.config
+\\USER-PC\Users\Public\Downloads\정올 +5\MSK Project\obj\Debug\MSK Project.vbprojResolveAssemblyReference.cache
+\\USER-PC\Users\Public\Downloads\정올 +5\MSK Project\obj\Debug\EQSetting.baml
+\\USER-PC\Users\Public\Downloads\정올 +5\MSK Project\obj\Debug\lyrics.baml
+\\USER-PC\Users\Public\Downloads\정올 +5\MSK Project\obj\Debug\MainWindow.baml
+\\USER-PC\Users\Public\Downloads\정올 +5\MSK Project\obj\Debug\EQSetting.g.vb
+\\USER-PC\Users\Public\Downloads\정올 +5\MSK Project\obj\Debug\lyrics.g.vb
+\\USER-PC\Users\Public\Downloads\정올 +5\MSK Project\obj\Debug\MainWindow.g.vb
+\\USER-PC\Users\Public\Downloads\정올 +5\MSK Project\obj\Debug\Application.g.vb
+\\USER-PC\Users\Public\Downloads\정올 +5\MSK Project\obj\Debug\MSK Project_MarkupCompile.cache
+\\USER-PC\Users\Public\Downloads\정올 +5\MSK Project\obj\Debug\MSK Project.g.resources
+\\USER-PC\Users\Public\Downloads\정올 +5\MSK Project\obj\Debug\MSK_Project.grank.resources
+\\USER-PC\Users\Public\Downloads\정올 +5\MSK Project\obj\Debug\MSK_Project.Resources.resources
+\\USER-PC\Users\Public\Downloads\정올 +5\MSK Project\obj\Debug\MSK Project.vbproj.GenerateResource.Cache
+C:\Users\host\Desktop\정올 +5 (1)\MSK Project\bin\Debug\MSK Project.exe.config
+C:\Users\host\Desktop\정올 +5 (1)\MSK Project\obj\Debug\MSK Project.exe
+C:\Users\host\Desktop\정올 +5 (1)\MSK Project\obj\Debug\MSK Project.xml
+C:\Users\host\Desktop\정올 +5 (1)\MSK Project\obj\Debug\MSK Project.pdb
+C:\Users\host\Desktop\정올 +5 (1)\MSK Project\obj\Debug\EQSetting.baml
+C:\Users\host\Desktop\정올 +5 (1)\MSK Project\obj\Debug\lyrics.baml
+C:\Users\host\Desktop\정올 +5 (1)\MSK Project\obj\Debug\MainWindow.baml
+C:\Users\host\Desktop\정올 +5 (1)\MSK Project\obj\Debug\EQSetting.g.vb
+C:\Users\host\Desktop\정올 +5 (1)\MSK Project\obj\Debug\lyrics.g.vb
+C:\Users\host\Desktop\정올 +5 (1)\MSK Project\obj\Debug\MainWindow.g.vb
+C:\Users\host\Desktop\정올 +5 (1)\MSK Project\obj\Debug\Application.g.vb
+C:\Users\host\Desktop\정올 +5 (1)\MSK Project\obj\Debug\MSK Project_MarkupCompile.cache
+C:\Users\host\Desktop\정올 +5 (1)\MSK Project\obj\Debug\MSK Project.g.resources
+C:\Users\host\Desktop\정올 +5 (1)\MSK Project\obj\Debug\MSK_Project.grank.resources
+C:\Users\host\Desktop\정올 +5 (1)\MSK Project\obj\Debug\MSK_Project.Resources.resources
+C:\Users\host\Desktop\정올 +5 (1)\MSK Project\obj\Debug\MSK Project.vbproj.GenerateResource.Cache
+C:\Users\host\Desktop\정올 +5 (1)\MSK Project\bin\Debug\MSK Project.exe
+C:\Users\host\Desktop\정올 +5 (1)\MSK Project\bin\Debug\MSK Project.pdb
+C:\Users\host\Desktop\정올 +5 (1)\MSK Project\bin\Debug\MSK Project.xml
+C:\Users\host\Desktop\정올 +5 (1)\MSK Project\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\host\Desktop\정올 +5 (1)\MSK Project\bin\Debug\taglib-sharp.dll
+C:\Users\host\Desktop\정올 +5 (1)\MSK Project\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\user\Desktop\정올 2015\MSK Project\bin\Debug\MSK Project.exe.config
+C:\Users\user\Desktop\정올 2015\MSK Project\obj\Debug\MSK Project.exe
+C:\Users\user\Desktop\정올 2015\MSK Project\obj\Debug\MSK Project.xml
+C:\Users\user\Desktop\정올 2015\MSK Project\obj\Debug\MSK Project.pdb
+C:\Users\user\Desktop\정올 2015\MSK Project\bin\Debug\MSK Project.exe
+C:\Users\user\Desktop\정올 2015\MSK Project\bin\Debug\MSK Project.pdb
+C:\Users\user\Desktop\정올 2015\MSK Project\bin\Debug\MSK Project.xml
+C:\Users\user\Desktop\정올 2015\MSK Project\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\user\Desktop\정올 2015\MSK Project\bin\Debug\taglib-sharp.dll
+C:\Users\user\Desktop\정올 2015\MSK Project\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\user\Desktop\정올 2015\MSK Project\obj\Debug\MSK Project.vbprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\정올 2015\MSK Project\obj\Debug\EQSetting.baml
+C:\Users\user\Desktop\정올 2015\MSK Project\obj\Debug\lyrics.baml
+C:\Users\user\Desktop\정올 2015\MSK Project\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\정올 2015\MSK Project\obj\Debug\EQSetting.g.vb
+C:\Users\user\Desktop\정올 2015\MSK Project\obj\Debug\lyrics.g.vb
+C:\Users\user\Desktop\정올 2015\MSK Project\obj\Debug\MainWindow.g.vb
+C:\Users\user\Desktop\정올 2015\MSK Project\obj\Debug\Application.g.vb
+C:\Users\user\Desktop\정올 2015\MSK Project\obj\Debug\MSK Project_MarkupCompile.cache
+C:\Users\user\Desktop\정올 2015\MSK Project\obj\Debug\MSK Project.g.resources
+C:\Users\user\Desktop\정올 2015\MSK Project\obj\Debug\MSK_Project.grank.resources
+C:\Users\user\Desktop\정올 2015\MSK Project\obj\Debug\MSK_Project.Resources.resources
+C:\Users\user\Desktop\정올 2015\MSK Project\obj\Debug\MSK Project.vbproj.GenerateResource.Cache
+G:\2015정보올림피아드\MSK Project\bin\Debug\MSK Project.exe.config
+G:\2015정보올림피아드\MSK Project\obj\Debug\MSK Project.exe
+G:\2015정보올림피아드\MSK Project\obj\Debug\MSK Project.xml
+G:\2015정보올림피아드\MSK Project\obj\Debug\MSK Project.pdb
+G:\2015정보올림피아드\MSK Project\bin\Debug\MSK Project.exe
+G:\2015정보올림피아드\MSK Project\bin\Debug\MSK Project.pdb
+G:\2015정보올림피아드\MSK Project\bin\Debug\MSK Project.xml
+G:\2015정보올림피아드\MSK Project\bin\Debug\policy.2.0.taglib-sharp.dll
+G:\2015정보올림피아드\MSK Project\bin\Debug\taglib-sharp.dll
+G:\2015정보올림피아드\MSK Project\bin\Debug\policy.2.0.taglib-sharp.config
+G:\2015정보올림피아드\MSK Project\obj\Debug\MSK Project.vbprojResolveAssemblyReference.cache
+G:\2015정보올림피아드\MSK Project\obj\Debug\EQSetting.baml
+G:\2015정보올림피아드\MSK Project\obj\Debug\lyrics.baml
+G:\2015정보올림피아드\MSK Project\obj\Debug\MainWindow.baml
+G:\2015정보올림피아드\MSK Project\obj\Debug\EQSetting.g.vb
+G:\2015정보올림피아드\MSK Project\obj\Debug\lyrics.g.vb
+G:\2015정보올림피아드\MSK Project\obj\Debug\MainWindow.g.vb
+G:\2015정보올림피아드\MSK Project\obj\Debug\Application.g.vb
+G:\2015정보올림피아드\MSK Project\obj\Debug\MSK Project_MarkupCompile.cache
+G:\2015정보올림피아드\MSK Project\obj\Debug\MSK Project.g.resources
+G:\2015정보올림피아드\MSK Project\obj\Debug\MSK_Project.grank.resources
+G:\2015정보올림피아드\MSK Project\obj\Debug\MSK_Project.Resources.resources
+G:\2015정보올림피아드\MSK Project\obj\Debug\MSK Project.vbproj.GenerateResource.Cache
+E:\2015정보올림피아드\MSK Project(은-도대회)\MSK Project\bin\Debug\MSK Project.exe.config
+E:\2015정보올림피아드\MSK Project(은-도대회)\MSK Project\obj\Debug\MSK Project.exe
+E:\2015정보올림피아드\MSK Project(은-도대회)\MSK Project\obj\Debug\MSK Project.xml
+E:\2015정보올림피아드\MSK Project(은-도대회)\MSK Project\obj\Debug\MSK Project.pdb
